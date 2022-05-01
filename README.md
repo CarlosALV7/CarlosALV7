@@ -1,6 +1,4 @@
-
-
-###<a href='https://drive.google.com/uc?id=1CpZCI_8YFSpK77fQTY53WU43ZkM6hXWD&export=download'>Curriculo CV</a>
+<a href='https://drive.google.com/uc?id=1CpZCI_8YFSpK77fQTY53WU43ZkM6hXWD&export=download'>Curriculo CV</a>
 
 <h1>Carlos Requena Alvarez</h1>
 
@@ -16,12 +14,12 @@ INFORMACIÓN PERSONAL
   Driving License: 
   Hobbies: 
 
-IDIOMAS
-  ★★★★☆ Java
-  ★★★★☆ PHP
-  ★★★★☆ C/C++
-  ★★★★☆ Dart - Flutter 
-  ★★★★★ Diseño en HTML Y Bootstrap
+IDIOMAS<br>
+  ★★★★☆ Java<br>
+  ★★★★☆ PHP<br>
+  ★★★★☆ C/C++<br>
+  ★★★★☆ Dart - Flutter <br>
+  ★★★★★ Diseño en HTML Y Bootstrap<br>
 
 COMPETENCIAS
   ★★★★★ Desarrollo front end
