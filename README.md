@@ -4,8 +4,6 @@
 <a href='/tutorial'>Tutorials</a>
 
 
-<!DOCTYPE html>
-<!-- saved from url=(0056)https://rhythm.bestlooker.pro/rhythm-original/index.html -->
 <html lang="en" class="no-mobile no-touch"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Rhythm — One &amp; Multi Page Creative Template</title>
         <meta name="description" content="Rhythm — One &amp; Multi Page Creative Template">    
