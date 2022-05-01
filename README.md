@@ -2,7 +2,7 @@
 
 <h1>Carlos Requena Alvarez</h1>
 
-INFORMACIÓN PERSONAL<br>
+<h2>INFORMACIÓN PERSONAL</h2><br>
   Address: Cedritos 6 San Miguel Almaya , Capulhuac, 52710<br>
   Fecha de nacimiento: 28/02/2002 Ciudad de México<br>
   Nacionalidad: Mexicano<br>
