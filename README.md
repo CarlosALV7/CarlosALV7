@@ -7,12 +7,11 @@ INFORMACIÓN PERSONAL<br>
   Fecha de nacimiento: 28/02/2002 Ciudad de México<br>
   Nacionalidad: Mexicano<br>
 
-Profesional capaz de garantizar elevados niveles de satisfacción del cliente. Con experiencia en redes informáticas, mantenimiento/ensamble de ordenadores, electrónica y un sólido conocimiento en desarrollo de software. Con excelentes habilidades y conocimientos de Front end con más de 2 años de experiencia proporcionando un apoyo excepcional a los usuarios de todos los niveles en Linux y Windows. Experto en cuestiones de Software y con buena reputación como técnico capacitado para trabajar en equipo y encontrar soluciones. Profesión que disfruto trabajando en entornos dinámicos y en contacto con el público. Capaz de realizar tareas generales (TI). Con competencias tecnológicas e interpersonales.
+Profesional capaz de garantizar elevados niveles de satisfacción del cliente. Con experiencia en redes informáticas, mantenimiento/ensamble de ordenadores, electrónica y un sólido conocimiento en desarrollo de software. 
 
-IDIOMAS<br>
-  ★★★★☆ Java<br>
-  ★★★★☆ PHP<br>
-  ★★★★☆ C/C++<br>
+LENGUAJES Y FRAMEWORKS
+DE PROGRAMACIÓN<br>
+  ★★★☆☆ Laravel
   ★★★★☆ Dart - Flutter <br>
   ★★★★★ Diseño en HTML Y Bootstrap<br>
 
@@ -22,9 +21,12 @@ COMPETENCIAS<br>
   ★★★★★ Dominio de Windows<br>
   ★★★★☆ Uso de Linux<br>
   ★★★★★ Instalación y mantenimiento de equipo de computo <br>
+  
+  
+  
 
 EXPERIENCIA LABORAL<br>
-  * abril 2021<br>
+ * abril 2021<br>
     Desarrollador Front End en Ingeniería de proyectos y servicios , Capulhuac<br>
       Desarrollador independiente en front end<br><br>
 
@@ -40,19 +42,18 @@ EXPERIENCIA LABORAL<br>
   Creó e implementó cortafuegos, estrategias de encriptación y otras medidas críticas de seguridad.<br><br>
 
 
-  * octubre 2021 – Presente<br>
+ * octubre 2021 – enero 2022<br>
     Jefe del área de sistemas. en H. Ayuntamiento Atizapán , Santa Cruz Atizapán<br>
        Soporte técnico a las aérea, en redes, sistemas y equipo de cómputo, para optimizar los tiempos de respuesta <br><br>
 
    Mantenimiento preventivo y correctivo de equipo de cómputo y redes, administraón de sistemas y base de datos. 
-   Resguardo de las bases de datos, control del sistema y mantenimiento  (Entrega recepción -Organo Superior de Fiscalizacion del Estado de Mexico)<br>
+   Resguardo de las bases de datos, control del sistema y mantenimiento (Entrega recepción -Organo Superior de Fiscalizacion del Estado de Mexico)<br>
   
 
 
 
 FORMACIÓN<br><br>
-  * 
-    Universidad Tecnológica del Valle de Toluca, Santa María Atarasquillo, Méx.km 7.5, 52044  Ing. en Tecnologías de la Información y la Comunicación Área Desarrollador de Software <br>
+  * Universidad Tecnológica del Valle de Toluca, Santa María Atarasquillo, Méx.km 7.5, 52044  Ing. en Tecnologías de la Información y la Comunicación Área       Desarrollador de Software <br>
     En proceso de estudio 6to cuatrimestre (Promedio general 9.6)
   * agosto 2017
     Instituto de Capacitación y Adiestramiento para el Trabajo Industrial, Paseo Adolfo López Mateos (Toluca - Zinacantepec) Sistemas Informáticos.
