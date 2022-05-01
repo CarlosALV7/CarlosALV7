@@ -20,10 +20,7 @@ COMPETENCIAS<br>
   ★★★★★ Dominio de Office<br>
   ★★★★★ Dominio de Windows<br>
   ★★★★☆ Uso de Linux<br>
-  ★★★★★ Instalación y mantenimiento de equipo de computo <br>
-  
-  
-  
+  ★★★★★ Instalación y mantenimiento de equipo de computo <br><br>
 
 EXPERIENCIA LABORAL<br>
  * abril 2021<br>
@@ -39,7 +36,7 @@ EXPERIENCIA LABORAL<br>
   Procesos de diseño a todos los niveles incluyendo investigación, conceptualización, pruebas e implementación.
   Transformó conceptos en flujos del usuario, diagramas funcionales, maquetas y prototipos para favorecer diseños intuitivos, interacciones y experiencias del usuario.
   Validó códigos para una estructuración adecuada, seguridad y compatibilidad con diferentes buscadores, dispositivos o sistemas operativos.
-  Creó e implementó cortafuegos, estrategias de encriptación y otras medidas críticas de seguridad.<br><br>
+  Creó e implementó cortafuegos, estrategias de encriptación y otras medidas críticas de seguridad.<br>
 
 
  * octubre 2021 – enero 2022<br>
@@ -47,12 +44,12 @@ EXPERIENCIA LABORAL<br>
        Soporte técnico a las aérea, en redes, sistemas y equipo de cómputo, para optimizar los tiempos de respuesta <br><br>
 
    Mantenimiento preventivo y correctivo de equipo de cómputo y redes, administraón de sistemas y base de datos. 
-   Resguardo de las bases de datos, control del sistema y mantenimiento (Entrega recepción -Organo Superior de Fiscalizacion del Estado de Mexico)<br>
+   Resguardo de las bases de datos, control del sistema y mantenimiento (Entrega recepción -Organo Superior de Fiscalizacion del Estado de Mexico)<br><br>
   
 
 
 
-FORMACIÓN<br><br>
+FORMACIÓN<br>
   * Universidad Tecnológica del Valle de Toluca, Santa María Atarasquillo, Méx.km 7.5, 52044  Ing. en Tecnologías de la Información y la Comunicación Área       Desarrollador de Software <br>
     En proceso de estudio 6to cuatrimestre (Promedio general 9.6)
   * agosto 2017
@@ -90,5 +87,19 @@ CURSOS
   * marzo 2018
     Desarrollo Web, Google
 
+
+REFERENCIAS
+1. Noel Alvarez Davila
+• 713 105 0614
+• Dirección: Independencia 32
+San Miguel Almaya 52710
+2. Elizabeth Alvarez Davila
+• 722 170 3190
+• Dirección: Libertad 2 San
+Miguel Almaya 52710
+3. Idania Juarez Neri.
+• 722 833 3312
+• Dirección: Corregidora 504
+San Miguelito, 52700
 
 
