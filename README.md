@@ -2,13 +2,12 @@
 
 <h1>Carlos Requena Alvarez</h1>
 
-Profesional capaz de garantizar elevados niveles de satisfacción del cliente. Con experiencia en redes informáticas, mantenimiento/ensamble de ordenadores, electrónica y un sólido conocimiento en desarrollo de software. Con excelentes habilidades y conocimientos de Front end con más de 2 años de experiencia proporcionando un apoyo excepcional a los usuarios de todos los niveles en Linux y Windows. Experto en cuestiones de Software y con buena reputación como técnico capacitado para trabajar en equipo y encontrar soluciones. Profesión que disfruto trabajando en entornos dinámicos y en contacto con el público. Capaz de realizar tareas generales (TI). Con competencias tecnológicas e interpersonales.
-
 INFORMACIÓN PERSONAL<br>
   Address: Cedritos 6 San Miguel Almaya , Capulhuac, 52710<br>
-  Date of birth: 28/02/2002 Ciudad de México<br>
-  Nationality: Mexicano<br>
+  Fecha de nacimiento: 28/02/2002 Ciudad de México<br>
+  Nacionalidad: Mexicano<br>
 
+Profesional capaz de garantizar elevados niveles de satisfacción del cliente. Con experiencia en redes informáticas, mantenimiento/ensamble de ordenadores, electrónica y un sólido conocimiento en desarrollo de software. Con excelentes habilidades y conocimientos de Front end con más de 2 años de experiencia proporcionando un apoyo excepcional a los usuarios de todos los niveles en Linux y Windows. Experto en cuestiones de Software y con buena reputación como técnico capacitado para trabajar en equipo y encontrar soluciones. Profesión que disfruto trabajando en entornos dinámicos y en contacto con el público. Capaz de realizar tareas generales (TI). Con competencias tecnológicas e interpersonales.
 
 IDIOMAS<br>
   ★★★★☆ Java<br>
