@@ -21,17 +21,17 @@ IDIOMAS<br>
   ★★★★☆ Dart - Flutter <br>
   ★★★★★ Diseño en HTML Y Bootstrap<br>
 
-COMPETENCIAS
-  ★★★★★ Desarrollo front end
-  ★★★★★ Dominio de Office
-  ★★★★★ Dominio de Windows
-  ★★★★☆ Uso de Linux
-  ★★★★★ Instalación y mantenimiento de equipo de computo 
+COMPETENCIAS<br>
+  ★★★★★ Desarrollo front end<br>
+  ★★★★★ Dominio de Office<br>
+  ★★★★★ Dominio de Windows<br>
+  ★★★★☆ Uso de Linux<br>
+  ★★★★★ Instalación y mantenimiento de equipo de computo <br>
 
-EXPERIENCIA LABORAL
-  * abril 2021
-    Desarrollador Front End en Ingeniería de proyectos y servicios , Capulhuac
-      Desarrollador independiente en front end
+EXPERIENCIA LABORAL<br>
+  * abril 2021<br>
+    Desarrollador Front End en Ingeniería de proyectos y servicios , Capulhuac<br>
+      Desarrollador independiente en front end<br><br>
 
   Maquetación y desarrollo web front-end.
   Creación de aplicaciones a medida con PHP, JavaScript, HTML y CSS.
@@ -42,24 +42,23 @@ EXPERIENCIA LABORAL
   Procesos de diseño a todos los niveles incluyendo investigación, conceptualización, pruebas e implementación.
   Transformó conceptos en flujos del usuario, diagramas funcionales, maquetas y prototipos para favorecer diseños intuitivos, interacciones y experiencias del usuario.
   Validó códigos para una estructuración adecuada, seguridad y compatibilidad con diferentes buscadores, dispositivos o sistemas operativos.
-  Creó e implementó cortafuegos, estrategias de encriptación y otras medidas críticas de seguridad.
+  Creó e implementó cortafuegos, estrategias de encriptación y otras medidas críticas de seguridad.<br><br>
 
 
-  * octubre 2021 – Presente
-    Jefe del área de sistemas. en H. Ayuntamiento Atizapán , Santa Cruz Atizapán
-       Soporte técnico a las aérea, en redes, sistemas y equipo de cómputo, para optimizar los tiempos de respuesta 
+  * octubre 2021 – Presente<br>
+    Jefe del área de sistemas. en H. Ayuntamiento Atizapán , Santa Cruz Atizapán<br>
+       Soporte técnico a las aérea, en redes, sistemas y equipo de cómputo, para optimizar los tiempos de respuesta <br><br>
 
    Mantenimiento preventivo y correctivo de equipo de cómputo y redes, administraón de sistemas y base de datos. 
-   Resguardo de las bases de datos, control del sistema y mantenimiento  (Entrega recepción -Organo Superior de Fiscalizacion del Estado de Mexico)
+   Resguardo de las bases de datos, control del sistema y mantenimiento  (Entrega recepción -Organo Superior de Fiscalizacion del Estado de Mexico)<br>
   
 
 
 
-FORMACIÓN
+FORMACIÓN<br><br>
   * 
-    Universidad Tecnológica del Valle de Toluca, Santa María Atarasquillo, Méx.km 7.5, 52044  Ing. en Tecnologías de la Información y la Comunicación Área Desarrollador de Software 
-
-    En proceso de estudio 5to cuatrimestre (Promedio general 9.6)
+    Universidad Tecnológica del Valle de Toluca, Santa María Atarasquillo, Méx.km 7.5, 52044  Ing. en Tecnologías de la Información y la Comunicación Área Desarrollador de Software <br>
+    En proceso de estudio 6to cuatrimestre (Promedio general 9.6)
   * agosto 2017
     Instituto de Capacitación y Adiestramiento para el Trabajo Industrial, Paseo Adolfo López Mateos (Toluca - Zinacantepec) Sistemas Informáticos.
 
