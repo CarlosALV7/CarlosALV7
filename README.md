@@ -11,7 +11,7 @@ Profesional capaz de garantizar elevados niveles de satisfacción del cliente. C
 
 LENGUAJES Y FRAMEWORKS
 DE PROGRAMACIÓN<br>
-  ★★★☆☆ Laravel
+  ★★★☆☆ Laravel<br>
   ★★★★☆ Dart - Flutter <br>
   ★★★★★ Diseño en HTML Y Bootstrap<br>
 
