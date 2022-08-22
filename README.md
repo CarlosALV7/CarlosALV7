@@ -1,4 +1,4 @@
-<a href='https://drive.google.com/uc?id=1CpZCI_8YFSpK77fQTY53WU43ZkM6hXWD&export=download'>Curriculo CV</a>
+<a href='https://github.com/CarlosALV7/CarlosALV7/files/9392593/CV-.Requena.Alvarez.Carlos.pdf'>Curriculo CV</a>
 
 <h1>Carlos Requena Alvarez</h1>
 
