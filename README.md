@@ -23,6 +23,15 @@ COMPETENCIAS<br>
   ★★★★★ Instalación y mantenimiento de equipo de computo <br><br>
 
 EXPERIENCIA LABORAL<br>
+* Mayo 2022 – Septiembre 2022
+      Desarrollador en Eiikova (Imagen y Diseño Corporativo S.A.S. DE C.V.), Santiago Tianguistenco
+
+Reingeniería documental para el sistema UER (Uso Eficiente de Refacciones) sistema operando a nivel producción para el control de inventario para diferentes plantas de la empresa Grupo Bimbo, S.A.B. de C.V.
+Modificación de sistema ROI (Reporte de Operaciones de Importaciones) para migrar a Oracle cloud en once plantas (Barcel y Ricolino) 
+
+
+
+
  * abril 2021<br>
     Desarrollador Front End en Ingeniería de proyectos y servicios , Capulhuac<br>
       Desarrollador independiente en front end<br><br>
