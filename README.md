@@ -52,7 +52,7 @@ Modificación de sistema ROI (Reporte de Operaciones de Importaciones) para migr
     * Jefe del área de sistemas. en H. Ayuntamiento Atizapán , Santa Cruz Atizapán<br>
        Soporte técnico a las aérea, en redes, sistemas y equipo de cómputo, para optimizar los tiempos de respuesta <br><br>
 
-   *Mantenimiento preventivo y correctivo de equipo de cómputo y redes, administraón de sistemas y base de datos. 
+   * Mantenimiento preventivo y correctivo de equipo de cómputo y redes, administraón de sistemas y base de datos. 
    Resguardo de las bases de datos, control del sistema y mantenimiento (Entrega recepción -Organo Superior de Fiscalizacion del Estado de Mexico)<br><br>
   
 
